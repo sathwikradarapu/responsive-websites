@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.heading {
+    color: #183b56;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.bg-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+}
+
+.heading2 {
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.para {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.button {
+    background-color: white;
+    color: #ff9f00;
+    border-width: 0px;
+    border-radius: 40px;
+    height: 35px;
+    width: 120px;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.button3 {
+    background-color: white;
+    color: #ff9f00;
+    border-width: 0px;
+    border-radius: 40px;
+    height: 35px;
+    width: 120px;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.bg-image2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    padding-top: 100px;
+}
+
+.text {
+    color: #ff9f00;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+.icon {
+    color: #ff9f00;
+    font-size: 10px;
+    margin-top: 5px;
+}
+
+.bolding {
+    font-weight: bold;
+}
+
+.button2 {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    height: 35px;
+    width: 100px;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 15px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+}
