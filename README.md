@@ -12,7 +12,6 @@ Each project is designed to demonstrate modern web development practices such as
 - **HTML5** — Structure of the web pages
 - **CSS3** — Styling and layout designs
 - **Bootstrap 4.5** — Responsive design and prebuilt components
-- **JavaScript** *(Optional - in some projects)* — For adding interactive features
 
 ---
 
@@ -26,7 +25,7 @@ All websites are **fully responsive** and adapt beautifully to:
 - Tablets 📱💻
 - Laptops and Desktops 💻🖥️
 
-Built using **Bootstrap 4.5's grid system** and **CSS media queries** to ensure a seamless experience across different screen sizes.
+Built using **Bootstrap 4.5's grid system** to ensure a seamless experience across different screen sizes.
 
 ---
 
